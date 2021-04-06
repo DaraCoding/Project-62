@@ -1,0 +1,39 @@
+.list-item {
+    width: 800px;
+    height: 600px;
+}
+
+.container {
+    text-align: center;
+}
+
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p{
+    margin-bottom:15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+.grid{
+    height:250px;
+    width:250px;
+    
+    
+}
+#img1 {
+    width:100%;
+}
+
+#contact iframe {
+    width: 100%;
+}
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
